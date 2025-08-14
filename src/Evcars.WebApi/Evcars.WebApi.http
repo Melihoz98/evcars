@@ -1,0 +1,6 @@
+@Evcars.WebApi_HostAddress = http://localhost:5037
+
+GET {{Evcars.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
